@@ -1,3 +1,4 @@
+/* part one of exercise
 h2.intro {
   font-size: 2.5em;
   font-family: cursive;
@@ -14,4 +15,13 @@ img.intro {
   border: solid black 5px;
   height: 200px;
   width: auto;
+}
+*/
+
+/* part two of exercise */
+.intro {
+  font-family: fantasy;
+  background-color: #C8F9C8;
+  border: solid black 5px;
+  text-align: center;
 }
