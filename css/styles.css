@@ -1,0 +1,17 @@
+h2.intro {
+  font-size: 2.5em;
+  font-family: cursive;
+  color: blue;
+}
+
+p.intro {
+  background-color: #C8F9C8;
+  border: solid black 1px;
+  border-radius: 5px;
+}
+
+img.intro {
+  border: solid black 5px;
+  height: 200px;
+  width: auto;
+}
