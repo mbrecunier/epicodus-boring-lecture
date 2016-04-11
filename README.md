@@ -6,11 +6,16 @@
 ---
 ### Description
 ---
-This is an exercise in using classes.
+This is an exercise in using classes to style a web page.
 
 ### Setup/Installation Requirements
 ---
-Clone this repository and open in any standard web browser.
+* Clone this repository
+* Open in your web browser
+
+--or--
+
+* View on [GitHub Pages] (http://mbrecunier.github.io/epicodus-boring-lecture/)
 
 ### Known Bugs
 ----
